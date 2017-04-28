@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="165" started-at="2017-04-28T03:04:14Z" finished-at="2017-04-28T03:04:15Z">
+  <suite name="Default suite" duration-ms="99" started-at="2017-04-28T13:04:36Z" finished-at="2017-04-28T13:04:36Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="165" started-at="2017-04-28T03:04:14Z" finished-at="2017-04-28T03:04:15Z">
+    <test name="Default test" duration-ms="99" started-at="2017-04-28T13:04:36Z" finished-at="2017-04-28T13:04:36Z">
       <class name="com.jenkins.JenkinsDemoMaven">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.jenkins.JenkinsDemoMaven@2669b199]" name="beforeSuite" is-config="true" duration-ms="12750" started-at="2017-04-27T20:04:02Z" finished-at="2017-04-27T20:04:14Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.jenkins.JenkinsDemoMaven@458ad742]" name="beforeSuite" is-config="true" duration-ms="28824" started-at="2017-04-28T06:04:07Z" finished-at="2017-04-28T06:04:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:com.jenkins.JenkinsDemoMaven@2669b199]" name="verifyTitle" duration-ms="142" started-at="2017-04-27T20:04:14Z" finished-at="2017-04-27T20:04:15Z">
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:com.jenkins.JenkinsDemoMaven@458ad742]" name="verifyTitle" duration-ms="63" started-at="2017-04-28T06:04:36Z" finished-at="2017-04-28T06:04:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTitle -->
